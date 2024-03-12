@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="Turquoise">#2AEB9C</color>
+    <color name="green">#60EB0F</color>
+    <color name="purple">#9A76EA</color>
+    <color name="blue">#6770EB</color>
+
+    <color name="color_worst_tip">#DC1E0B</color>
+    <color name="color_best_tip">#35BA01</color>
+
+
+
+</resources>
